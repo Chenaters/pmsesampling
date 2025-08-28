@@ -1,0 +1,25 @@
+Package: pmsesampling
+Title: Sample Size Determination for Accurate Predictive Linear Regression
+Version: 0.0.0.9000
+Authors@R: 
+    person("Louis", "Chen", , "chenaters@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0002-1720-3958"))
+Description: Provides analytic and simulation tools to estimate the minimum
+    sample size required for achieving a target prediction mean-squared error
+    (PMSE) or a specified proportional PMSE reduction (pPMSEr) in linear
+    regression models.  Functions implement the criteria of Ma (2023),
+    support covariance-matrix handling, and include helpers for root-finding
+    and diagnostic plotting.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+	Matrix,
+	stats,
+	rootSolve
+Suggests:
+  rmarkdown,
+  testthat(>= 3.0.0)
+BugReports: https://github.com/WPI-Wulab/Sample_Size_Prediction/issues
+URL: https://github.com/WPI-Wulab/Sample_Size_Prediction
