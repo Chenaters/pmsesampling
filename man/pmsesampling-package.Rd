@@ -39,11 +39,11 @@ Linear Regression Models}. Worchester Polytechnic Institute
 Useful links:
 \itemize{
   \item \url{https://github.com/Chenaters/pmsesampling}
-  \item Report bugs at \url{https://github.com/Chenaters/pmsesampling}
+  \item Report bugs at \url{https://github.com/Chenaters/pmsesampling/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: Louis Chen \email{chenaters@gmail.com} (\href{https://orcid.org/0009-0002-1720-3958}{ORCID})
+\strong{Maintainer}: Louis Chen \email{chenaters@gmail.com}
 
 }

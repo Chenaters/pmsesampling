@@ -1,9 +1,8 @@
 Package: pmsesampling
 Title: Sample Size Determination for Accurate Predictive Linear Regression
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
-    person("Louis", "Chen", , "chenaters@gmail.com", role = c("aut", "cre"),
-           comment = c(ORCID = "0009-0002-1720-3958"))
+    c(person("Louis", "Chen", email = "chenaters@gmail.com", role = c("aut","cre")))
 Description: Provides analytic and simulation tools to estimate the minimum
     sample size required for achieving a target prediction mean-squared error
     (PMSE) or a specified proportional PMSE reduction (pPMSEr) in linear
@@ -21,5 +20,5 @@ Imports:
 Suggests:
   rmarkdown,
   testthat(>= 3.0.0)
-BugReports: https://github.com/Chenaters/pmsesampling
+BugReports: https://github.com/Chenaters/pmsesampling/issues
 URL: https://github.com/Chenaters/pmsesampling
