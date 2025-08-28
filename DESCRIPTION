@@ -21,5 +21,5 @@ Imports:
 Suggests:
   rmarkdown,
   testthat(>= 3.0.0)
-BugReports: https://github.com/WPI-Wulab/Sample_Size_Prediction/issues
-URL: https://github.com/WPI-Wulab/Sample_Size_Prediction
+BugReports: https://github.com/Chenaters/pmsesampling
+URL: https://github.com/Chenaters/pmsesampling
