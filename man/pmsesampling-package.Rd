@@ -38,8 +38,8 @@ Linear Regression Models}. Worchester Polytechnic Institute
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/WPI-Wulab/Sample_Size_Prediction}
-  \item Report bugs at \url{https://github.com/WPI-Wulab/Sample_Size_Prediction/issues}
+  \item \url{https://github.com/Chenaters/pmsesampling}
+  \item Report bugs at \url{https://github.com/Chenaters/pmsesampling}
 }
 
 }
