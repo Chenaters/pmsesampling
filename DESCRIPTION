@@ -2,7 +2,8 @@ Package: pmsesampling
 Title: Sample Size Determination for Accurate Predictive Linear Regression
 Version: 0.1.0
 Authors@R: 
-    c(person("Louis", "Chen", email = "chenaters@gmail.com", role = c("aut","cre")))
+    c(person("Louis", "Chen", email = "chenaters@gmail.com", role = c("aut","cre")),
+    person("Zheyang", "Wu", email = "zheyangwu@wpi.edu", role = c("aut", "ths")))
 Description: Provides analytic and simulation tools to estimate the minimum
     sample size required for achieving a target prediction mean-squared error
     (PMSE) or a specified proportional PMSE reduction (pPMSEr) in linear

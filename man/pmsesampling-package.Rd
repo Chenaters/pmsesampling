@@ -46,4 +46,9 @@ Useful links:
 \author{
 \strong{Maintainer}: Louis Chen \email{chenaters@gmail.com}
 
+Authors:
+\itemize{
+  \item Zheyang Wu \email{zheyangwu@wpi.edu} [thesis advisor]
+}
+
 }
