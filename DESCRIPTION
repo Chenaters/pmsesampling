@@ -7,9 +7,9 @@ Authors@R:
 Description: Provides analytic and simulation tools to estimate the minimum
     sample size required for achieving a target prediction mean-squared error
     (PMSE) or a specified proportional PMSE reduction (pPMSEr) in linear
-    regression models.  Functions implement the criteria of Ma (2023),
-    support covariance-matrix handling, and include helpers for root-finding
-    and diagnostic plotting.
+    regression models.  Functions implement the criteria of Ma (2023) 
+    <https://digital.wpi.edu/downloads/0g354j58c>, support covariance-matrix 
+    handling, and include helpers for root-finding and diagnostic plotting.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
